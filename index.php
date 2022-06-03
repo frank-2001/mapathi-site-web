@@ -10,8 +10,8 @@
     <link rel="stylesheet" href="style/fontawesome-free-6.0.0-beta2-web/css/fontawesome.css">
     <link rel="stylesheet" href="style/fontawesome-free-6.0.0-beta2-web/css/all.min.css">
     <link rel="stylesheet" href="style/fontawesome-free-6.0.0-beta2-web/css/fontawesome.min.css">
-    <link rel="stylesheet" href="style/fontawesome/css/solid.min.css">
-    <link rel="stylesheet" href="style/fontawesome/css/fontawesome.min.css">
+    <link rel="stylesheet" href="style/fontawesome-free-6.0.0-beta2-web/css/solid.min.css">
+    <link rel="stylesheet" href="style/fontawesome-free-6.0.0-beta2-web/css/fontawesome.min.css">
     <title>Mapathi Sarl</title>
 
 </head>
