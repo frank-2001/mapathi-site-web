@@ -74,7 +74,7 @@
             <div class="content" >
                 <h3>Mapathi-Sarl</h3>
                 <p style="font-size: 200%;">“La civilisation n'est pas un entassement, mais une construction, une architecture.”</p>
-                <a href="apk/map-custums.apk" class="btn">Telecharger application mobile</a>
+                <a href="apk/map-custums.apk" class="btn"><span  class="fab fa-android "></span> Telecharger l'application mobile</a>
             </div>
         </div>
     </section>
