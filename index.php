@@ -324,7 +324,7 @@
     <!--products footer begin-->
     <section class="footer">
         <div class="share">
-            <a href="" class="fab fa-facebook"></a>></a>
+            <a href="" class="fab fa-facebook"></a></a>
             <a href="" class="fab fa-instagram"></a>
             <a href="" class="fab fa-whatsapp"></a>
         </div>
