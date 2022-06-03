@@ -87,7 +87,7 @@
         </h1>
         <div class="row">
             <div class="image">
-                <img src="images/support-header-img.png" alt="">
+                <img src="https://scontent.fgom1-1.fna.fbcdn.net/v/t39.30808-6/269714421_2950733081905159_160901487481527953_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=6hbyZD1LBDMAX_-QFmH&_nc_zt=23&_nc_ht=scontent.fgom1-1.fna&oh=00_AT-f32oy8XiTU1KTbOj7lHv54WF35tVY7Q_ByXm1B1lQHw&oe=629F703D" alt="">
             </div>
 
             <div class="content">
