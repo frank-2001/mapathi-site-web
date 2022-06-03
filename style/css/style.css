@@ -1,0 +1,434 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/* Mes coleur ,background-color,.....*/
+
+.nicleonicvx{
+    background: linear-gradient(rgb(10, 158, 97),rgb(221, 218, 218));
+}
+.nicleonicxv{
+    background: linear-gradient(rgb(8, 30, 223),rgb(221, 218, 218));
+}
+.nicleonicx{
+    background: linear-gradient(rgb(223, 112, 8),rgb(221, 218, 218));
+}
+.nicleonic{
+    background: linear-gradient(rgb(90, 4, 189),rgb(221, 218, 218));
+}
+.nicleoni{
+    background: linear-gradient(rgb(8, 223, 141),rgb(221, 218, 218));
+}
+.nicleon{
+    background: linear-gradient(rgb(7, 74, 161),rgb(221, 218, 218));
+}
+.nicleo{
+    background-image: url(../img/CINK.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /*background: linear-gradient(rgb(15, 223, 8),rgb(221, 218, 218));*/
+}
+.nicle{
+    background-image: url(../img/caroussel1.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.nicl{
+    background-image: url(../img/shopp.png);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+   /* background: linear-gradient(rgb(211, 197, 4),rgb(221, 218, 218));*/
+}
+.nic{
+    background-image: url(../img/caroussel3.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+   /* background: linear-gradient(rgb(7, 74, 161),rgb(221, 218, 218));*/
+}
+.ninja{
+    background-color: rgb(3, 7, 44);
+}
+.nuNav{
+    background-color: #98d248;
+}
+.jb{
+    background: linear-gradient(#98d248,rgb(221, 218, 218)) ;
+}
+.col{
+    color: #98d248;
+}
+.colorado{
+    background-color: #98d248;
+    color: white;
+}
+.colora{
+    background-color: #98d248;
+
+}
+.nicleodon{
+    background: linear-gradient(red,rgb(221, 218, 218));
+    
+}
+.drop{
+    border: 1px solid #98d248;
+}
+.blank{
+    background-color: whitesmoke;
+}
+
+/*
+.nicleodon ,
+.nic,
+.nuNav,
+.jb{
+
+}
+iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii UP CLASSES iiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+*/
+.CAS form fieldset{
+    transition: .8s ease;
+}
+.NUNTETE{
+    transition: .8s ease;
+}
+.log{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+.logo{
+    height: 20px;
+    width: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.LINKNAVNUN li a:hover{
+    background: #98d248;
+    transition: .7s ease;
+}
+
+.LINKNAVNUN li a:active{
+    background: #c57d2b;
+}
+.NUNRES{
+    
+    color: #98d248;
+    border: 1px solid #98d248;
+}
+.NUNRES:hover{
+    background-color: #98d248;
+    color: white;
+}
+.NUNRES:active{
+    background-color: #c57d2b;
+}
+.CAROUCONTROLS button{
+    top: 38%;
+    height: 5rem;
+    width: 3rem;
+    border: 2px solid #92fa00;
+    background: rgba(0, 0, 0, .1);
+    transition: .5s ease;
+}
+.CAROUCONTROLS button:hover{
+    border: 2px solid lightgray;
+}
+.NEXT:hover i{
+    color: #92fa00;
+    transition: .5s ease;
+}
+.PREV:hover i{
+    color: #92fa00;
+    transition: .5s ease;
+}
+/*---------------------------------------------- MEDIA QUERY BEGIN----------------------------------------*/
+@media screen and (max-width: 800px){
+    .CAROUCONTROLS button{
+        top: 22%;
+        height: 4prem;
+        width: 2rem;
+    }
+    .BAK{
+
+        top: -120px;
+    }
+
+    .owl-next span ,
+    .owl-prev span{
+        top: 5%;
+        color: yellow;
+    }
+
+}
+
+@media screen and (max-width: 992px){
+    .owl-carousel .OWLBODY .SHOPIMAGE{
+        height: 120px;
+        /*noneneone*/
+    }
+    .NUNTETE{
+        width: 100%;
+    }
+    /* 
+    .BAK{
+        border: 3px solid rgb(228, 94, 5);
+        height: 100%;
+        z-index: 1;
+        position: relative;
+    }
+    .NUNUP{
+        top: -200px;
+    }
+     */
+    .NUNCORP{
+        display: block;
+        width: 100%;
+        padding: 0%;
+    }
+    .NUNCORP .bod2{
+        width: 100%;
+    }
+    .NUNCORP .bod1{
+        width: 100%;
+    }
+   
+}
+/*---------------------------------------------- MEDIA QUERY END----------------------------------------*/
+/*  
+.creer:hover{
+    /*
+    color: white;
+    border: 2px solid rgb(3, 7, 44);
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    transition: 1200ms ease;
+}
+*/
+/* =========================================== CORPS ==================================================.*/
+/* =========================================== CORPS ==================================================.*/
+/* =========================================== CORPS ==================================================.*/
+/*  
+.BAK{
+    z-index: 1;
+    position: relative;
+    top: -80px;
+    border: 2px dashed green;
+}
+
+.NUNUP{
+    z-index: 1;
+    position: relative;
+    top: -140px;
+}
+*/
+.NUNUP .image{
+    border: 1px solid rgb(165, 12, 12);
+}
+/* 
+body{
+    background-color: rgb(221, 218, 218);
+
+}
+ */
+.NUNCORP{
+    width: 100%;
+    border: 4px dotted saddlebrown;
+}
+.action{
+    position: absolute;
+    top: 20%;
+    right: 5px;
+}
+.card .imgBx{
+    position: relative;
+    overflow: hidden;
+}
+.imgBx .img-top{
+    position: relative;
+    overflow: hidden;
+    object-fit: cover;
+    transition: 0.6s ease-in-out;
+}
+.imgBx:hover .img-top{
+    transform: scale(1.5);
+}
+/**************** ! *******************/
+.imgBx img{
+    position: relative;
+    overflow: hidden;
+    object-fit: cover;
+    transition: 0.6s ease-in-out;
+}
+.imgBx:hover img{
+    transform: scale(1.5);
+}
+/**************** ! *******************/
+.action li{
+    position: relative;
+    list-style: none;
+    width: 30px;
+    height: 30px;
+    background: tan;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+    transform: transform(0.5s);
+    transform: translateX(80px);
+}
+.imgBx:hover .action li{
+    transform: translateX(0px);
+
+}
+.action li:nth-child(2){
+    transition-delay: 0.15s;
+}
+.action li:nth-child(3){
+    transition-delay: 0.3s;
+}
+.action li:hover{
+    background: #98d248;
+    color: whitesmoke;
+}
+.action li span{
+    position: absolute;
+    right: 40px;
+    transform: translateY(-150%)translateX(-20px);
+    white-space: nowrap;
+    padding: 4px 6px;
+    background: whitesmoke;
+    border-radius: 5%;
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 0;
+    color: black;
+    transition: 0.5s;
+    
+}
+.action li:hover span{
+    opacity: 1;
+    transform: translateY(-50%)translateX(0px);
+}
+.action li span::before{
+    content: '';
+    position: absolute;
+    right: -10px;
+
+}
+
+
+*/
+.MONNAV{
+    background: linear-gradient(rgba(0, 0, 0, .8),#868686)!important;
+    color: whitesmoke;
+}
+/* Begin ====================                           OWL CAROUSSEL                                ===========================================.*/
+.rating .fa{
+    color: yellow;
+}
+.rating .fa.gray {
+    color: gray;
+}
+.like{
+    position: absolute;
+    transform: translateY(-60px);
+    right: 10px;
+    list-style: none;
+    width: 30px;
+    height: 30px;
+    background: rgba(0, 0, 0, .6)!important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 4px;
+    border-radius: 50%;
+    cursor: pointer;
+
+}
+.like .fas{
+    color: whitesmoke;
+}
+.like:hover .fas{
+    color: rgb(255, 0, 0);
+}
+.like .fas:active{
+    color: rgb(223, 16, 16);
+} 
+
+/*========================          OWL CAROUSSEL      ===========================*/
+
+.owl-next{
+    border: 2px solid black;   
+}
+.owl-next span ,.owl-prev span{
+    font-size: 80px;
+    padding: 0;
+    position: absolute;
+    color: #98d248;
+    justify-content: center;
+    justify-items: center;
+    align-content: center;
+    background-color: rgba(0, 0, 0, .4)!important;
+    padding-top: 2px;
+    border: 1px solid rgba(0, 0, 0, .6)!important;
+    border-radius: 5px;
+}
+
+.owl-next span{
+    right: 0px;
+}
+.owl-prev span{
+    left: 0%;
+}
+
+
+.img-top{
+    background: url(img/river.png)no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+/*          FOLIE      */
+.ART{
+    transition: .6s ease;
+}
+
+@media screen and (max-width: 576px){
+    .ART{
+        width: 50%;
+    }
+}
+@media screen and (max-width: 490px){
+    .ART{
+        width: 100%;
+    }
+}
+@media screen and (min-width: 560px){
+    .img-top{
+        height: 220px;
+        width: 100%;
+    }
+}
+@media screen and (max-width: 560px){
+    .img-top{
+        height: 200px;
+        width: 100%;
+    }
+}
+/*          FOLIE      */
+@media screen and (max-width: 480px){
+    .img-top{
+        height: 220px;
+    }
+
+}
+/* End ====================                           OWL CAROUSSEL                                ===========================================.*/
+.imgLogo{
+    border-radius: 20px;
+}
