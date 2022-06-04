@@ -74,7 +74,7 @@
             <div class="content" >
                 <h3>Mapathi-Sarl</h3>
                 <p style="font-size: 200%;">“La civilisation n'est pas un entassement, mais une construction, une architecture.”</p>
-                <a href="apk/map-custums.apk" class="btn"><span  class="fab fa-android "></span> Telecharger l'application mobile</a>
+                <a href="apk/mpt-custums.apk" class="btn"><span  class="fab fa-android "></span> Telecharger l'application mobile</a>
             </div>
         </div>
     </section>
@@ -91,8 +91,8 @@
             </div>
 
             <div class="content">
-                <h3>A quoi notre maison est-elle spéciale?</h3>
-                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium beatae nihil illo dolor in repellendus maiores nam provident hic non.</p>
+                <h3>Jerry Bwanandeke Mapthi </h3> <span>PDG </span>
+                <p>Chaque fois que vous vous demandez jusqu’où vous pouvez aller. Souviens-toi juste du chemin que tu as parcouru. Souvenez-vous de tout ce que vous avez affronté, de toutes les batailles que vous avez gagnées et de toutes les peurs que vous avez surmontées ipsum dolor sit amet consectetur adipisicing elit. Praesentium beatae nihil illo dolor in repellendus maiores nam provident hic non.</p>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis excepturi voluptate impedit neque voluptas consequuntur obcaecati totam cum repellendus aspernatur.</p>
                 <a href="#" class="btn">Plus</a>
             </div>
